@@ -1,0 +1,484 @@
+@import url('https://fonts.googleapis.com/css2?family=Arial&display=swap');
+
+.header {
+    display: block;
+    font-family: LatoLight, Lato, Arial, sans-serif;
+    line-height:1.5 ;
+    font-weight: 300 ;
+    background-color: black;
+    height: 29px;
+    
+}
+
+.navabar {
+    min-height: 0;
+    margin-bottom: 10px;
+}
+
+.nav-body {
+    margin-top: 7px;
+}
+
+.navbar-header {
+    text-align: center;
+    color: beige;
+    margin-top: -19px;
+    text-decoration: none;
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   line-height:1.5 ;
+   font-weight: 300 ;
+}
+
+.navbar-header a {
+    background-color: red;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height:1.5 ;
+    font-weight: 300 ;
+}
+
+.ul-nav li {
+    display: inline;
+    list-style: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height:1.5 ;
+    font-weight: 300 ;
+}
+
+.ul-nav li a {
+    font-size: 12px;
+    color: #bfbfbf;
+    margin-right: 17px;
+    text-decoration: none;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.navbar-center {
+    margin-right: 29rem;
+
+}
+
+.navbar-center ul li a:hover {
+    color: #fff;
+}
+
+.ul-nav {
+    margin-top: -5px;
+}
+
+.nav-right ul li {
+    background-color: #1d9bf0;
+    border-radius: 5px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+
+
+}
+
+.nav-right ul li a {
+    color: #fff !important;
+    text-align: center;
+}
+
+.nav-search {
+    width: 100%;
+    height: 170px;
+    background-color: #dee2e6;
+    border: #dee2e6 solid 1PX;
+}
+
+.donate {
+    background-color: #C0C0C0;
+    border-radius: 6px;
+}
+
+.donate a {
+    font-style: italic;
+    color: #800 !important;
+    font-weight: 700 !important;
+}
+
+.input-group {
+    padding: 15px
+}
+
+.form-control {
+    height: 46px;
+    padding: 10px 16px;
+    font-size: 18px;
+    line-height: 1.3333333;
+    border-radius: 6px;
+}
+
+.btn-s {
+    color: #dee2e6;
+    background-color: #778899;
+}
+
+.btn-s:hover {
+    background-color: #778899;
+}
+
+.accent {
+    margin: -40px 234px;
+    margin-top: -90px;
+}
+
+.btn-group label {
+    border: #bfbfbf solid 1px;
+    font-size: 12px;
+    background-color: #fff;
+}
+
+.btn-button {
+
+    background-color: #696969;
+}
+
+.btn-group button {
+    color: #696969;
+}
+
+.fa-caret-down {
+    color: #fff;
+}
+
+.host {
+    width: 104%;
+}
+
+h1 {
+    margin-top: 22px;
+    font-size: 20px;
+    line-height: 1.42857143;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+}
+
+.nodec {
+    color: #337ab7;
+    text-decoration: none;
+}
+
+.advb {
+    font-size: 14px;
+    padding-left: 5px;
+    color: #ff8585;
+}
+
+.index_bottom_ad2 {
+    height: auto !important;
+    margin-top: -142px;
+}
+
+.g_pr_ad_network {
+    margin: 140px 0px 35px -23px
+}
+
+.adsbygoogle {
+    display: block;
+    height: 280px;
+}
+
+#aswift_1_host {
+    border: none;
+    height: 280px;
+    width: 855px;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    visibility: visible;
+    background-color: transparent;
+    display: inline-block;
+    overflow: visible;
+}
+
+.aswift_1 {
+    left: 0;
+    position: absolute;
+    top: 0;
+    border: 0;
+    width: 855px;
+    height: 280px;
+}
+
+.g_pr_ad_network2 {
+    margin: 0px 5px 10px 5px
+}
+
+.adsbygoogle2 {
+    display: block;
+    height: 600px;
+}
+
+#aswift_2_host {
+    border: none;
+    height: 600px;
+    width: 245px;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    visibility: visible;
+    background-color: transparent;
+    display: inline-block;
+    overflow: visible;
+}
+
+#aswift_2 {
+    left: 0;
+    position: absolute;
+    top: 0;
+    border: 0;
+    width: 245px;
+    height: 600px;
+}
+
+.facts {
+    border: 1px solid #e6e6e6;
+    border-radius: 10px;
+    width: 100%;
+    margin: 18px 0 13px 0;
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.ttl {
+    background-color: #6e6e6e;
+    color: #fff;
+    border: #6e6e6e solid 1px;
+    width: 15%;
+    border-bottom-right-radius: 8px;
+    border-bottom: 1px solid #e6e6e6;
+    border-right: 1px solid #e6e6e6;
+}
+
+.bdy ul li {
+    color: #7f98ad;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.footer {
+    background-color: #000;
+}
+
+.langs {
+    border-bottom: #fff solid 1px;
+    padding: -1px 0 15px;
+}
+
+.langs em {
+    color: #809ebd;
+    font-style: normal;
+    padding-right: 12px;
+    font-size: 14px;
+}
+
+.langs ul li {
+    display: inline;
+    list-style: none;
+    color: #bfbfbf;
+    font-size: 11px;
+    border-right: #bfbfbf solid 1px;
+    padding-right: 5px;
+    margin-right: 3px;
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   line-height:1.5 ;
+   font-weight: 300 ;
+}
+
+.about {
+    padding: 0 0 15px;
+}
+
+.about ul li {
+    display: inline;
+    color: #bfbfbf;
+    border-right: #bfbfbf solid 1px;
+    padding-right: 5px;
+    margin-right: 3px;
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   line-height:1.5 ;
+   font-weight: 300 ;
+
+}
+
+.about a {
+    margin-top: 3px;
+    right: 114px;
+    position: absolute;
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   line-height:1.5 ;
+   font-weight: 300 ;
+}
+.fa-backward{
+    font-size: 35px;
+    /* margin-right: -25px; */
+    margin-right: 30px;
+    position: relative;
+    left: -83px;
+    top: -37px;
+}
+.fa-forward{
+    font-size: 35px;
+    margin-left: 30px;
+    position: relative;
+    right: -100px;
+    top: -37px;
+}
+.news_socail{
+    text-align: center;
+}
+/* .fa-brands{
+    font-size: 35px;
+
+} */
+.fa-square-facebook{
+    font-size: 35px;
+}
+.fa-square-twitter{
+    font-size: 35px;
+}
+.fa-square-pinterest{
+    color: red;
+    font-size: 35px;
+}
+#caption p{
+    font-size: 30px;
+    text-align: center;
+   
+
+}
+#caption{
+    border: 1px solid #e6e6e6;
+    
+}
+
+#link{
+    width: 100%;
+    height: 350px;
+    border-radius: 10px;
+
+}
+
+.keyword{
+    color: orange;
+    font-size: 35px;
+    border-bottom: 1px solid;
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   line-height:1.5 ;
+   font-weight: 300 ;
+
+}
+.tip-body h3{
+    color: #7f98ad;
+    font-size: 17px;
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   line-height:1.5 ;
+   font-weight: 300 ;
+    
+}
+.tip-heading{
+    border-bottom: 1px solid #e6e6e6;
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   line-height:1.5 ;
+   font-weight: 300 ;
+}
+.tip ul li {
+    color: #7f98ad;
+    font-size: 16px;
+    font-family: arial;
+}
+.definition-heading{
+    border-bottom: 1px solid #e6e6e6;
+
+}
+.definition-body h3{
+    color: #7f98ad;
+    font-size: 17px;
+    font-family: arial;
+    
+}
+.sub{
+    border: 1px solid #e3e3e3;
+    background-color: #dee2e6;
+    border-left: 4px solid #6c757d;
+
+}
+.sub ul li {
+    list-style: none;
+    color: #337ab7;
+    font-size: 16px;
+    font-family: arial;
+    
+}
+.nearby-heading{
+    border-bottom: 1px solid #e6e6e6;
+
+}
+.nearby-body h3{
+    color: #7f98ad;
+    font-size: 17px;
+    font-family: arial;
+    
+}
+.near{
+    border: 1px solid #e3e3e3;
+    background-color: #dee2e6;
+    border-left: 4px solid #6c757d;
+
+}
+.near ul li {
+    list-style: none;
+    color: #337ab7;
+    font-size: 16px;
+    display: inline;
+    font-family: arial;
+    
+}
+.near ul li a {
+    
+    text-decoration: none;
+    font-family: arial;
+}
+.near ul li a:hover{
+    color: red;
+}
+.phonetic-heading{
+    border-bottom: 1px solid #e6e6e6;
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   line-height:1.5 ;
+   font-weight: 300 ;
+
+}
+.phonetic-body h3{
+    color: #7f98ad;
+    font-size: 17px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height:1.5 ;
+    font-weight: 300 ;
+    
+}
+.phone ul li{
+    color: #6c757d;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height:1.5 ;
+    font-weight: 300 ;
+}
+.bold{
+    color: #9498ad;
+    font-weight: bold;
+}
+.ttlr{
+    margin-top: 5px;
+    margin-top: 2px;
+    font-size: 32px;
+    color: #9498ad;
+}
+.key{
+    color: #ffa500;
+}
+.icon{
+    position: relative;
+    left: 370px;
+}
